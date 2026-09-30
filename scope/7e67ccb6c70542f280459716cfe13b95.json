@@ -1,3 +1,0 @@
-[
-  "'File Name: contracts/sui_x_oracle/x_oracle/sources/x_oracle.move -> Scope: Critical. Direct theft or loss of user funds, collateral, borrowed assets, supplied liquidity, redeemed assets, liquidated collateral, or flash-loaned funds at rest or in motion, excluding unclaimed yield'"
-]
